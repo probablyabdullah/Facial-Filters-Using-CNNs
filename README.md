@@ -26,7 +26,7 @@ The Facial Filters Application is an interactive Python program that leverages c
 
 * Download required files into a working directory🛠️<br>
 * Download dataset from kaggle🛠️<br>
-* Install dependencies from th file🛠️<br>
+* Install dependencies from the file🛠️<br>
 * Customise code to your specification🛠️<br>
 * Train model🛠️<br>
 * Run implementation code🛠️<br>
